@@ -133,7 +133,7 @@ const SingleRoom = props => {
         </SingleRoomInfo>
       </StyleSingleRoom>
       <SingleRoomExtra>
-        <h6>extrase/h6>
+        <h6>extras</h6>
         <ul className='extras'>
           {extras.map((item, index) => (
             <li key={index}>- {item}</li>
