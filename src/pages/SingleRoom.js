@@ -104,7 +104,7 @@ const SingleRoom = props => {
     <>
       <StyleAux img={images[0] || defaultBcg}>
         <Banner title={`${name} room`}>
-          <Button link='/'>back to rooms</Button>
+          <Button link='/rooms'>back to rooms</Button>
         </Banner>
       </StyleAux>
       <StyleSingleRoom>
