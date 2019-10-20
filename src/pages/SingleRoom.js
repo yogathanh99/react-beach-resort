@@ -4,7 +4,6 @@ import styled from 'styled-components';
 import { RoomContext } from '../context/RoomProvider';
 import { StyleAux } from '../styles';
 import Button from '../components/Button';
-import Aux from '../components/Aux';
 import Banner from '../components/Banner';
 import defaultBcg from '../images/room-1.jpeg';
 
